@@ -39,9 +39,6 @@
 <p>h<sub>2</sub>o</p>
 <p>3<sup>2</sup> = 9</p>
         
-<pre>
-    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum ipsum blanditiis ad excepturi consequatur labore alias ipsam cum aspernatur esse voluptatibus laborum consequuntur rem saepe magnam, ipsa est quisquam repellat.
-</pre>
 <header>
     <h1> education</h1>  
     <h1> projects</h1>   </header>
