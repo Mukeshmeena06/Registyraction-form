@@ -1,0 +1,125 @@
+ *  { 
+    margin: 0;
+padding: 0;
+
+}
+
+ h1{
+    color: aqua;
+    font: 100;
+    text-align: center;
+    font-style: initial;
+
+
+}
+
+p{
+    color: beige;
+    
+}
+
+p{
+    color: rgb(128, 226, 243);
+    font-size: medium;
+}
+
+div{
+background-color:#63cac9,#1A2980 ;
+
+}
+form{
+    color: #c5a3a3;
+    text-align:center;
+    background-color: #1A2980    
+
+        }
+body{
+
+height: 100vh;
+    display: f;
+        justify-content: flex-start;
+    align-items: center;
+        background: linear-gradient( #1A2980, #26D0CE);
+    
+    
+}
+
+label{
+color:rgba(62, 8, 107, 0.922);
+font-style: normal;
+color: black;
+color: black;
+}
+head{
+    color: rgb(224, 44, 188);
+
+
+}
+p{
+    color: black;
+    text-align: center;
+}
+button { 
+    color: rgb(6, 6, 128);
+    transform: scale(2.50 sec)
+}
+pre{
+    text-align: center;
+    font-size: large;
+}
+section{
+    color: black;
+    font-size: medium;
+}
+video{
+    text-align: center;
+    color: black;
+}
+p{
+    text-align: center;
+}
+main{
+    text-align: center;
+    
+}
+link{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font: 100;
+    color: black;
+    
+}
+h2{
+    text-align: center;
+    font: 100;
+    color: black;
+}
+br{
+    text-align: center;
+}
+sub{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    color: black;
+    font-size: medium;
+    font-style: bold;
+}
+blockquote{
+    text-align: center;
+    color: black;
+}
+.circle{
+    
+            position: absolute;
+        border-radius: 50%;
+        background: rgba(255,255,255,0.15);
+        animation: float 6s infinite alternate ease-in-out;
+   
+    
+
+    
+}
