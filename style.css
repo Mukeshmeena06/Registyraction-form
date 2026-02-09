@@ -35,11 +35,11 @@ form{
         }
 body{
 
-height: 100vh;
+height: 100px;
     display: f;
         justify-content: flex-start;
     align-items: center;
-        background: linear-gradient( #1A2980, #0072ff);
+        background: linear-gradient( lightblue, aqua);
     
     
 }
